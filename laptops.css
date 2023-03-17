@@ -13,3 +13,13 @@ background-attachment: fixed;
 background-size: cover;
 }
 
+#emhare {
+background-color: orange;
+color:blue;
+}
+
+#bottom_tile {
+    color: black;
+    background-color: lightskyblue;
+    text-align: center;
+}
